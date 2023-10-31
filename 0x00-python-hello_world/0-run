@@ -1,0 +1,3 @@
+#!/bin/bash
+# Writing a shell script that runs a python script
+python3 $PYFILE 
